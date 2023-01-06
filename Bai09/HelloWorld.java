@@ -1,0 +1,11 @@
+public class HelloWorld {
+    public static void main(String[] args) {
+        int age = 18;
+        if (age >= 18) {
+            System.out.println("bạn đủ tuổi đăng ký");
+
+        } else {
+            System.out.println("bạn chưa đủ tuổi đăng ký");
+        }
+    }
+}
